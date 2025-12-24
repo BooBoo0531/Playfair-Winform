@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Playfair_cipher/1.0.0": {
+        "runtime": {
+          "Playfair_cipher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Playfair_cipher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
